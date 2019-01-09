@@ -8,10 +8,14 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="ShiraNegbi" />
+          <option name="userName" value="shayslonim" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/ShiraNegbi/MileStone2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Avishagp/BIUProject2" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
