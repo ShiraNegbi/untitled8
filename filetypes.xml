@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Bank-log" type="PLAIN_TEXT" />
       <mapping pattern="larva" type="PLAIN_TEXT" />
       <mapping pattern="fly_rockNroll_fairies" type="PLAIN_TEXT" />
       <mapping pattern=".txt" type="PLAIN_TEXT" />
