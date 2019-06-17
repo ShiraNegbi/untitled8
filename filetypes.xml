@@ -6,6 +6,7 @@
       <mapping pattern="fly_rockNroll_fairies" type="PLAIN_TEXT" />
       <mapping pattern=".txt" type="PLAIN_TEXT" />
       <mapping ext="gch" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
